@@ -1,0 +1,6 @@
+(1, 2, 3, 4, 5)
+15
+{'name': 'Abdul Khaleq', 'age': '25', 'cityName': 'Bogura'}
+name  :  Abdul Khaleq
+age  :  25
+cityName  :  Bogura
